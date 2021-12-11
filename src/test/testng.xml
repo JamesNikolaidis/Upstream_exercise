@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="UpStream sample test execution" >
+    <test name="logInLogOut_Chrome" >
+        <parameter name="browser" value="Chrome"></parameter>
+        <classes>
+            <class name="loginLogoutScenario" />
+        </classes>
+    </test>
+</suite>
