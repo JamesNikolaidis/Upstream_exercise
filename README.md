@@ -18,7 +18,7 @@ The test framework is using the below tools
 
 <p>To download and install maven, please follow the steps below</p>
 <ul>
-  <li>Navigate to <a>https://maven.apache.org/download.cgi</a> and download the proper maven zip file according to your local machine OS</li>
+  <li>Navigate to <a href="https://maven.apache.org/download.cgi">https://maven.apache.org/download.cgi</a> and download the proper maven zip file according to your local machine OS</li>
 <li>Unzip the maven package</li>
-<li>Follow the instructions of the link <a>https://www.tutorialspoint.com/maven/maven_environment_setup.html</a> according to your local machine OS</li>
+<li>Follow the instructions of the link <a href="https://www.tutorialspoint.com/maven/maven_environment_setup.html">https://www.tutorialspoint.com/maven/maven_environment_setup.html</a> according to your local machine OS</li>
 </ul>  
