@@ -1,1 +1,0 @@
-# openBet_exercise
