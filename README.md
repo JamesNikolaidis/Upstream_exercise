@@ -8,4 +8,4 @@ The test framework is using the below tools
 </ul>
 
 <h2>Test execution</h2>
-<p> Run mvn test to start the default test execution suite</p>
+<p> Run <code>mvn test</code> to start the default test execution suite</p>
