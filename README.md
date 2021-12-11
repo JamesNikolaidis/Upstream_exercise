@@ -14,7 +14,7 @@ The test framework is using the below tools
 
 <p>Open a terminal and using shell commands <code>cd #cloned_repository_directory# </code>  navigate to the project directory</p>
 <p> Run <code>mvn test</code> to start the default test execution suite</p>
-<p>When the test execution finish, navigate to #cloned_repository_directory/target/surefire_report# to check the results report</p>
+<p>When the test execution finish, navigate to <code>#cloned_repository_directory/target/surefire_report#</code> to check the results report</p>
 
 <p>To download and install maven, please follow the steps below</p>
 <ul>
