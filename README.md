@@ -9,7 +9,7 @@ The test framework is using the below tools
 
 <h2>Test execution</h2>
 
-<p><b>Please follow the below instruction if you have already download and add maven in your enviroment properties</b></p>
+<p><b>Please follow the below instruction if you have already download and added maven in your enviroment properties</b></p>
 
 
 <p>Open a terminal and using shell commands <code>cd #cloned_repository_directory# </code>  navigate to the project directory</p>
