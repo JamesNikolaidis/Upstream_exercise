@@ -7,6 +7,15 @@ The test framework is using the below tools
 <li>Boni Garcia library</li>
 </ul>
 
+<h2>Download Project<h2>
+<ul>
+  <li>Click the "code" up-right dropdown menu and copy the http url</li>
+  <li>Download and install git terminal <a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></li>
+  <li>Open git terminal and execute the command <code> git clone #coppied URL from 1st step</code></li>
+  </ul>  
+
+
+
 <h2>Test execution</h2>
 
 <p><b>Please follow the below instruction if you have already download and added maven in your enviroment properties</b></p>
